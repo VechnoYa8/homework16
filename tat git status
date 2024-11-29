@@ -1,0 +1,23 @@
+[33mcommit f6b088f1942c779a1492141cc39c18c6161b657e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Yevheniia <angelinavechnoya@gmail.com>
+Date:   Fri Nov 29 01:51:20 2024 +0100
+
+    add file.txt and index.html and styles.css
+
+[33mcommit ddbc2c0dbe9fa71765114f3081cf828cfd19351b[m[33m ([m[1;32mdevelopment[m[33m)[m
+Author: Yevheniia <angelinavechnoya@gmail.com>
+Date:   Fri Nov 29 01:25:40 2024 +0100
+
+    add index.html and styles.css
+
+[33mcommit 2202ff9caeb1c07cfeb05719c52d3ab06e9b72fd[m
+Author: Yevheniia <angelinavechnoya@gmail.com>
+Date:   Fri Nov 29 01:08:27 2024 +0100
+
+    add .gitignore
+
+[33mcommit 404026f3ad1f8db9a24c464593a5ca2b57cf7ecb[m
+Author: Yevheniia <angelinavechnoya@gmail.com>
+Date:   Fri Nov 29 00:59:18 2024 +0100
+
+    first commit
